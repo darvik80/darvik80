@@ -10,7 +10,7 @@ td, th {
     <tbody>
         <tr>
             <td rowspan=2>
-               Карточка профиля:<br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darvik80&theme=solarized_dark)
+               Карточка профиля:<br><a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darvik80&theme=solarized_dark">
             </td>
         </tr>
         <tr>
