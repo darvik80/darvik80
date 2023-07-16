@@ -4,7 +4,7 @@
 <br>
 |   |
 |:-:|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=tokyonight)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darvik80&theme=tokyonight)|
 
 |   |   |
 |:-:|:-:|
