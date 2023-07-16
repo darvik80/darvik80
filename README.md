@@ -8,5 +8,5 @@
 
 |   |   |
 |:-:|:-:|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darvik80&theme=solarized_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darvik80&theme=solarized_dark)|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darvik80&theme=solarized_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darvik80&theme=solarized_dark)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darvik80&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darvik80&theme=tokyonight)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darvik80&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darvik80&theme=tokyonight)|
