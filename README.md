@@ -4,5 +4,5 @@
 <br>
 |   |   |
 |---|---|
-|Статистика языков в коммитах:<br>![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)|Статистика языков в репозиториях:<br>![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darvik80&theme=solarized_dark)|
+|Статистика языков в коммитах:<br>![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darvik80&theme=solarized_dark)|Статистика языков в репозиториях:<br>![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darvik80&theme=solarized_dark)|
 |Статистика профиля:<br>![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darvik80&theme=solarized_dark)|Данные по коммитам за сутки:<br>![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darvik80&theme=solarized_dark)|
