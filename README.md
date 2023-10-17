@@ -3,7 +3,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darvik80&theme=tokyonight)
+<center>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darvik80&theme=tokyonight)</center>
 <br>
 
 |   |   |
